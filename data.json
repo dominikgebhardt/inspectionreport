@@ -1,0 +1,289 @@
+{
+    "inspectionDate":"21.02.2024",
+    "inspector":"Max Mustermann",
+    "objectName": "Leiter 9020/002",
+    "inspectionName": "Leiterprüfung",
+    "inspectionGroup": "DGUV",
+    "attributes": [
+        {
+            "description": "Abteilung",
+            "value": "Engineering"
+        },
+        {
+            "description": "Gebäude",
+            "value": "7010"
+        },
+        {
+            "description": "Leiter-Nr.",
+            "value": "7010/005"
+        },
+        {
+            "description": "Stockwerk",
+            "value": "1st Floor"
+        },
+        {
+            "description": "Raum",
+            "value": "Lab-L101"
+        },
+        {
+            "description": "Aufstiegsart 1",
+            "value": "Rolling Ladder"
+        },
+        {
+            "description": "Aufstiegsart 2",
+            "value": "Extendable"
+        },
+        {
+            "description": "Aufstiegsart 3",
+            "value": "6 Steps"
+        },
+        {
+            "description": "Hersteller",
+            "value": "LadderTech"
+        },
+        {
+            "description": "Artikelnr.",
+            "value": "70123/LT400"
+        },
+        {
+            "description": "Werkstoff",
+            "value": "Steel"
+        },
+        {
+            "description": "Anschaffungsjahr",
+            "value": "2023"
+        }
+    ],
+    "inspectionSteps": [
+        {
+            "inspection": "1. Auf Rost prüfen",
+            "result": true,
+            "photos": []
+        },
+        {
+            "inspection": "2. Ausreichend Schmierung prüfen",
+            "result": false,
+            "photos": []
+        },
+        {
+            "inspection": "3. Elektrische Verbindungen überprüfen",
+            "result": true,
+            "photos": []
+        },
+        {
+            "inspection": "4. Gehäuse auf Beschädigungen prüfen",
+            "result": false,
+            "photos": []
+        },
+        {
+            "inspection": "5. Temperaturen überwachen",
+            "result": true,
+            "photos": []
+        },
+        {
+            "inspection": "6. Funktionsfähigkeit der Sensoren testen",
+            "result": true,
+            "photos": []
+        },
+        {
+            "inspection": "7. Kontrolle der Sicherheitsvorrichtungen",
+            "result": true,
+            "photos": []
+        },
+        {
+            "inspection": "8. Dichtungen auf Undichtigkeiten überprüfen",
+            "result": false,
+            "photos": ["imgs/testimage_1.jpg","imgs/testimage_2.jpg"]
+        },
+        {
+            "inspection": "9. Kontrolle der Verschleißteile",
+            "result": true,
+            "photos": []
+        },
+        {
+            "inspection": "10. Kontrolle der Bremsen",
+            "result": true,
+            "photos": []
+        },
+        {
+            "inspection": "11. Kontrolle der Kühlmittelstände",
+            "result": true,
+            "photos": []
+        },
+        {
+            "inspection": "12. Sichtprüfung des Fahrzeuginnenraums",
+            "result": false,
+            "photos": ["imgs/testimage_3.jpg","imgs/testimage_4.jpg","imgs/testimage_5.jpg","imgs/testimage_6.jpg"]
+        },
+        {
+            "inspection": "13. Kontrolle der Beleuchtungseinrichtungen",
+            "result": true,
+            "photos": []
+        },
+        {
+            "inspection": "14. Prüfung der Lenkung",
+            "result": true,
+            "photos": []
+        },
+        {
+            "inspection": "15. Überprüfung der Reifenprofiltiefe",
+            "result": true,
+            "photos": []
+        },
+        {
+            "inspection": "16. Prüfung der Klimaanlage",
+            "result": false,
+            "photos": []
+        },
+        {
+            "inspection": "17. Funktionsfähigkeit der Heizung testen",
+            "result": true,
+            "photos": []
+        },
+        {
+            "inspection": "18. Überprüfung der Windschutzscheibe auf Risse",
+            "result": true,
+            "photos": []
+        },
+        {
+            "inspection": "19. Kontrolle des Kraftstoffstandes",
+            "result": false,
+            "photos": []
+        },
+        {
+            "inspection": "20. Prüfung der Airbags",
+            "result": true,
+            "photos": []
+        },
+        {
+            "inspection": "21. Kontrolle der Wischerblätter",
+            "result": true,
+            "photos": []
+        },
+        {
+            "inspection": "22. Prüfung der Achsgeometrie",
+            "result": false,
+            "photos": []
+        },
+        {
+            "inspection": "23. Überprüfung des Auspuffs auf Undichtigkeiten",
+            "result": true,
+            "photos": []
+        },
+        {
+            "inspection": "24. Kontrolle der Rückspiegel",
+            "result": true,
+            "photos": []
+        },
+        {
+            "inspection": "25. Prüfung der Türdichtungen",
+            "result": true,
+            "photos": []
+        },
+        {
+            "inspection": "26. Überprüfung des Batteriezustands",
+            "result": false,
+            "photos": []
+        },
+        {
+            "inspection": "27. Kontrolle der Radmuttern",
+            "result": true,
+            "photos": []
+        },
+        {
+            "inspection": "28. Prüfung der Handbremse",
+            "result": true,
+            "photos": []
+        },
+        {
+            "inspection": "29. Funktionsfähigkeit der Hupe testen",
+            "result": true,
+            "photos": []
+        },
+        {
+            "inspection": "30. Kontrolle der Scheinwerfereinstellung",
+            "result": false,
+            "photos": []
+        },
+        {
+            "inspection": "31. Überprüfung der Spiegelreflexionen",
+            "result": true,
+            "photos": []
+        },
+        {
+            "inspection": "32. Prüfung des Getriebeöls",
+            "result": true,
+            "photos": []
+        },
+        {
+            "inspection": "33. Kontrolle der Motorölstand",
+            "result": true,
+            "photos": []
+        },
+        {
+            "inspection": "34. Prüfung der Abgaswerte",
+            "result": false,
+            "photos": []
+        },
+        {
+            "inspection": "35. Kontrolle der Kupplung",
+            "result": true,
+            "photos": []
+        },
+        {
+            "inspection": "36. Funktionsfähigkeit des Tempomats testen",
+            "result": true,
+            "photos": []
+        },
+        {
+            "inspection": "37. Kontrolle der Antriebsriemen",
+            "result": true,
+            "photos": []
+        },
+        {
+            "inspection": "38. Prüfung der Bremsflüssigkeit",
+            "result": false,
+            "photos": []
+        },
+        {
+            "inspection": "39. Überprüfung der Zündkerzen",
+            "result": true,
+            "photos": []
+        },
+        {
+            "inspection": "40. Kontrolle der Motorlager",
+            "result": true,
+            "photos": []
+        },
+        {
+            "inspection": "41. Prüfung der Abgasanlage",
+            "result": true,
+            "photos": []
+        },
+        {
+            "inspection": "42. Funktionsfähigkeit der Zentralverriegelung testen",
+            "result": false,
+            "photos": []
+        },
+        {
+            "inspection": "43. Kontrolle des Klimakompressors",
+            "result": true,
+            "photos": []
+        },
+        {
+            "inspection": "44. Prüfung der Bremsscheiben",
+            "result": true,
+            "photos": []
+        },
+        {
+            "inspection": "45. Überprüfung der Tankverschlüsse",
+            "result": true,
+            "photos": []
+        },
+        {
+            "inspection": "46. Kontrolle der Fahrzeugbatterie",
+            "result": false,
+            "photos": []
+        }
+    ]
+}
